@@ -10,8 +10,7 @@
 
 ### 🚀 Sobre mim
 
-- 👨‍💻 Desenvolvedor Web com foco em sistemas PHP e React
-- 📊 Experiência com projetos de controle financeiro, ERP, e automação de processos
+- 👨‍💻 Desenvolvedor Web com foco em sistemas PHP e React JS
 - 📚 Atualmente estudando novas tecnologias e praticando com projetos próprios
 - 💼 Buscando oportunidades para atuar como Dev Full Stack
 
@@ -41,7 +40,7 @@
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/douglas-dias-712763217))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/dougl-dias))
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:douglas18.76.80@gmail.com)
 
 ---
