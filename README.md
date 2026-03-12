@@ -1,5 +1,3 @@
-<h1 align="center">Olá! Eu sou o Douglas 👋</h1>
-
 <p align="center">
   Desenvolvedor Full Stack focado em soluções web úteis e funcionais.
   <br>
