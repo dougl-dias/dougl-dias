@@ -1,10 +1,8 @@
-<p align="center">
+<p>
   Desenvolvedor Full Stack focado em soluções web úteis e funcionais.
   <br>
   Apaixonado por tecnologia, código limpo e boas práticas.
 </p>
-
----
 
 ### 🚀 Sobre mim
 
