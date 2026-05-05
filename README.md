@@ -6,10 +6,10 @@
 
 ### 🚀 Sobre mim
 
-- 📘 Formado Análise e desenvolvimento de sistemas - ETEC Sebrae
-- 👨‍💻 Desenvolvedor Web com foco em sistemas React JS e Node JS
-- 📚 Atualmente estudando novas tecnologias e praticando com projetos próprios
-- 💼 Buscando oportunidades para atuar como Dev Full Stack
+- Formado Análise e desenvolvimento de sistemas - ETEC Sebrae
+- Desenvolvedor Web com foco em sistemas React JS e Node JS
+- Atualmente estudando novas tecnologias e praticando com projetos próprios
+- Buscando oportunidades para atuar como Dev Full Stack
 
 ---
 
